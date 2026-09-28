@@ -1,0 +1,2 @@
+# premium-string-puppet-001-string-marionette-control-ba
+Tired of losing track of which string length works with which control bar pivot? Stop piecing together marionette designs from sticky notes and scattered sketches.  The String Marionette &amp; Control Bar Joint Hub is a Notion template that centralizes every component of your puppet's anatomy — from control bar dimensions to joint articulations — into
